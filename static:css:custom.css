@@ -1,0 +1,82 @@
+Last login: Sat Mar 22 13:17:45 on console
+olirackind@Olis-MacBook-Air ~ % echo "Temporary text file content" > temp.txt
+olirackind@Olis-MacBook-Air ~ % echo "Temporary text file content" > temp.txt
+olirackind@Olis-MacBook-Air ~ % echo "Temporary text file content" > temp.txtecho "Temporary text file content" > temp.txt
+olirackind@Olis-MacBook-Air ~ % 
+olirackind@Olis-MacBook-Air ~ % nano temp.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  UW PICO 5.09                                  File: temp.txt                                  Modified  
+
+     
+/* Smooth transitions */
+.alert,
+.card,
+.btn,
+.form-control {
+    transition: all 0.3s ease;
+}
+
+/* Responsive padding adjustments */
+@media (max-width: 768px) {
+    .container {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+    
+    .card-body {
+        padding: 1rem;
+    }
+}
+ 
+/* Clean card styling */
+.card {
+    border-radius: 0.5rem;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+     
+/* Style for the instructions accordion */
+.accordion-button:not(.collapsed) {
+    background-color: rgba(var(--bs-primary-rgb), 0.1);
+    color: var(--bs-primary);
+}
+    
+.accordion-button:focus {
+    box-shadow: none;
+    border-color: rgba(var(--bs-primary-rgb), 0.25);
+}
+    
+/* Ensure we maintain the dark theme look */
+.card, .accordion-item {
+    background-color: var(--bs-dark);
+    border-color: rgba(255, 255, 255, 0.125);
+}   
+        
+     
+    
+ 
+
+
+    
+    
+    
+ 
+
+^G Get Help      ^O WriteOut      ^R Read File     ^Y Prev Pg       ^K Cut Text      ^C Cur Pos       
+^X Exit          ^J Justify       ^W Where is      ^V Next Pg       ^U UnCut Text    ^T To Spell      
